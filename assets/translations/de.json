@@ -1,0 +1,42 @@
+{
+  "global": {
+    "app_name": "Aquaman"
+  },
+  "settings": {
+    "setting": "Einstellung",
+    "language": "Sprache",
+    "notification": "Benachrichtigung",
+    "start": "Start",
+    "end": "Ende",
+    "interval": "Intervall",
+    "no_notif_being_generated": "Keine Benachrichtigung wird generiert, wenn die Endzeit vor oder gleich der Startzeit eingestellt ist.",
+    "hour": "Stunde(n)",
+    "daily_water_intake": "Tägliche Wasseraufnahme",
+    "set_daily_water_intake": "Tägliches Aufnahmeziel",
+    "calculate_water_intake_target": "Tägliches Aufnahmeziel Berechnen",
+    "age": "Alter",
+    "years_old": "Jahr(e)",
+    "weight": "Gewicht",
+    "calculate": "Berechnen"
+  },
+  "notif_content": {
+    "notif_title": "GEH WASSER TRINKEN!",
+    "notif_body": "Klick mich um die App aufzurufen."
+  },
+  "customized_amount": {
+    "customize_water_intake": "Menge Anpassen",
+    "confirm": "Bestätigen"
+  },
+
+  "records": {
+    "my_records": "我的纪录",
+    "latest_7_days": "Vor 7 Tagen",
+    "latest_30_days": "Vor 30 Tagen",
+    "latest_60_days": "Vor 60 Tagen",
+    "latest_90_days": "Vor 90 Tagen",
+    "target_reached": "Ziel erreicht:",
+    "days": "Tag(e)",
+    "today": "Heute"
+  }
+
+}

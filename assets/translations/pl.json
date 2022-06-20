@@ -1,0 +1,42 @@
+{
+  "global": {
+    "app_name": "Aquaman"
+  },
+  "settings": {
+    "setting": "設定",
+    "language": "語言",
+    "notification": "通知",
+    "start": "開始",
+    "end": "結束",
+    "interval": "間隔",
+    "no_notif_being_generated": "若要成功設定通知，開始時間必須早於（或同時於）結束時間。",
+    "hour": "小時",
+    "daily_water_intake": "每日飲水量",
+    "set_daily_water_intake": "設定每日飲水量",
+    "calculate_water_intake_target": "計算每日飲水量",
+    "age": "年紀",
+    "years_old": "歲",
+    "weight": "體重",
+    "calculate": "計算"
+  },
+  "notif_content": {
+    "notif_title": "你該喝水囉!",
+    "notif_body": "點我進入APP。"
+  },
+  "customized_amount": {
+    "customize_water_intake": "自訂攝取量",
+    "confirm": "確定"
+  },
+
+  "records": {
+    "my_records": "我的紀錄",
+    "latest_7_days": "最近七天",
+    "latest_30_days": "最近三十天",
+    "latest_60_days": "最近六十天",
+    "latest_90_days": "最近九十天",
+    "target_reached": "目標達成：",
+    "days": "天",
+    "today": "今天"
+  }
+
+}

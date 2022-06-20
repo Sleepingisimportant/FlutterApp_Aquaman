@@ -1,0 +1,42 @@
+{
+  "global": {
+    "app_name": "Aquaman"
+  },
+  "settings": {
+    "setting": "Settings",
+    "language": "Language",
+    "notification": "Notification",
+    "start": "Start",
+    "end": "End",
+    "interval": "Interval",
+    "no_notif_being_generated": "No notification will be generated if the End time is set prior to the Start time.",
+    "hour": "Hour(s)",
+    "daily_water_intake": "Daily Water Intake",
+  "set_daily_water_intake": "Set Daily Water Intake",
+    "calculate_water_intake_target": "Calculate  Water Intake Target",
+    "age": "Age",
+    "years_old": "yo",
+    "weight": "Weight",
+    "calculate": "Calculate"
+  },
+  "notif_content": {
+    "notif_title": "GO DRINK WATER",
+    "notif_body": "Tap me to enter the App."
+  },
+  "customized_amount": {
+    "customize_water_intake": "Customize Water Intake",
+    "confirm": "Confirm"
+  },
+
+  "records": {
+    "my_records": "My Records",
+    "latest_7_days": "Latest 7 days",
+    "latest_30_days": "Latest 30 day",
+    "latest_60_days": "Latest 60 day",
+    "latest_90_days": "Latest 90 day",
+    "target_reached": "Target reached:",
+    "days": "Day(s)",
+    "today": "Today"
+  }
+
+  }
